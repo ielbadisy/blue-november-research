@@ -11,7 +11,7 @@ par rapport à l'absence de dépistage organisé, réduit-elle la mortalité par
 |---|---|---|
 | 50 min | Session plénière | Suivez les [diapositives](slides.pdf) : types de revue, guides (PRISMA), bases de la méta-analyse, lecture critique d'un essai |
 | 10 min | Présentation des thèmes | Formez 6 groupes ; chaque groupe reçoit un article (tableau ci-dessous) |
-| 2 h | Analyse en groupe | Remplissez la [fiche d'analyse](fiche-analyse.pdf) en suivant les consignes ci-dessous |
+| 2 h | Analyse en groupe | Remplissez la fiche d'analyse remise par AxoLab, en suivant les consignes ci-dessous |
 | 50 min | Restitution | Un représentant par groupe présente en 5 minutes ; les résultats sont combinés en direct |
 | 10 min | Conclusion | Messages clés de l'atelier |
 
@@ -20,7 +20,6 @@ par rapport à l'absence de dépistage organisé, réduit-elle la mortalité par
 | Fichier | Rôle |
 |---|---|
 | [`slides.pdf`](slides.pdf) | Diapositives de la session plénière |
-| [`fiche-analyse.pdf`](fiche-analyse.pdf) | Fiche à remplir par chaque groupe |
 | [`fiche-recap.pdf`](fiche-recap.pdf) | Ce qu'il faut chercher, section par section |
 | [`articles/`](articles/) | Les articles des groupes |
 
@@ -38,7 +37,7 @@ par rapport à l'absence de dépistage organisé, réduit-elle la mortalité par
 
 ## Consignes pour l'analyse (2 heures)
 
-1. Lisez votre article et remplissez la fiche d'analyse, en vous aidant de la fiche récapitulative.
+1. Lisez votre article et remplissez la fiche d'analyse AxoLab, en vous aidant de la fiche récapitulative.
 2. **Règle d'or** : chaque réponse cite la page de l'article. Pas de page, pas de réponse.
 3. Relevez l'effet sur la mortalité par cancer de la prostate **tel qu'écrit dans l'article** :
    mesure (RR, HR, IRR), valeur et IC 95 %. Prenez l'analyse en intention de dépister.
