@@ -28,7 +28,7 @@ par rapport à l'absence de dépistage organisé, réduit-elle la mortalité par
 | Groupe | Article | Fichier |
 |---|---|---|
 | Démo | Hugosson et al. Göteborg, *Lancet Oncol* 2010 | [PDF](articles/0-demo-goteborg-hugosson-2010.pdf) |
-| 1 | Labrie et al. Québec, *Prostate* 2004 | [résumé seulement](https://doi.org/10.1002/pros.20017) (article payant ; compléter avec Ilic 2018, tableau 1) |
+| 1 | Labrie et al. Québec, *Prostate* 2004 | [PDF](articles/groupe1-labrie-2004.pdf) |
 | 2 | Lundgren et al. Stockholm, *J Urol* 2018 | [PDF](articles/groupe2-lundgren-2018.pdf) |
 | 3 | Pinsky et al. PLCO, *Cancer* 2017 | [PDF](articles/groupe3-plco-pinsky-2017.pdf) |
 | 4 | Schröder et al. ERSPC, *Lancet* 2014 | [PDF](articles/groupe4-erspc-schroder-2014.pdf) |
