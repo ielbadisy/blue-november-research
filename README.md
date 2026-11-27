@@ -5,6 +5,16 @@ Atelier AxoLab, UM6SS Rabat : lire un essai de dépistage et le situer dans une 
 **Question.** Chez les hommes sans cancer de la prostate connu, l'invitation au dépistage par PSA,
 par rapport à l'absence de dépistage organisé, réduit-elle la mortalité par cancer de la prostate ?
 
+## Programme
+
+| Durée | Étape | Ce que vous faites |
+|---|---|---|
+| 50 min | Session plénière | Suivez les [diapositives](slides.pdf) : types de revue, guides (PRISMA), bases de la méta-analyse, lecture critique d'un essai |
+| 10 min | Présentation des thèmes | Formez 6 groupes ; chaque groupe reçoit un article (tableau ci-dessous) |
+| 2 h | Analyse en groupe | Remplissez la [fiche d'analyse](fiche-analyse.pdf) en suivant les consignes ci-dessous |
+| 50 min | Restitution | Un représentant par groupe présente en 5 minutes ; les résultats sont combinés en direct |
+| 10 min | Conclusion | Messages clés de l'atelier |
+
 ## Contenu
 
 | Fichier | Rôle |
@@ -26,7 +36,7 @@ par rapport à l'absence de dépistage organisé, réduit-elle la mortalité par
 | 5 | Martin et al. CAP, *JAMA* 2018 | [PDF](articles/groupe5-cap-martin-2018.pdf) |
 | 6 | Ilic et al. méta-analyse, *BMJ* 2018 | [PDF](articles/groupe6-ilic-2018.pdf) |
 
-## Consignes (2 heures)
+## Consignes pour l'analyse (2 heures)
 
 1. Lisez votre article et remplissez la fiche d'analyse, en vous aidant de la fiche récapitulative.
 2. **Règle d'or** : chaque réponse cite la page de l'article. Pas de page, pas de réponse.
